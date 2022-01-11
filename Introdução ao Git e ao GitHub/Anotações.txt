@@ -1,0 +1,6 @@
+Link para download do git: https://git-scm.com/download/win
+O GitBash é um terminal estendido para otimizar o uso do git
+
+
+git add .	Commita tudo o que está pendente para o repositório
+git add -A	Commita tudo o que está pendente para o repositório
